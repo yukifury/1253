@@ -1,0 +1,10 @@
+S:\prog\bot\practice11\practice11\bin\Debug\practice11.exe.config
+S:\prog\bot\practice11\practice11\bin\Debug\practice11.exe
+S:\prog\bot\practice11\practice11\bin\Debug\practice11.pdb
+S:\prog\bot\practice11\practice11\obj\Debug\practice11.csproj.AssemblyReference.cache
+S:\prog\bot\practice11\practice11\obj\Debug\practice11.csproj.CoreCompileInputs.cache
+S:\prog\bot\practice11\practice11\obj\Debug\practice11.exe
+S:\prog\bot\practice11\practice11\obj\Debug\practice11.pdb
+S:\prog\bot\practice11\practice11\bin\Debug\Newtonsoft.Json.dll
+S:\prog\bot\practice11\practice11\bin\Debug\Newtonsoft.Json.xml
+S:\prog\bot\practice11\practice11\obj\Debug\practice11.csproj.CopyComplete
